@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rejestracja</string>
+
+    <string name="rejestruj">Rejestruj konto</string>
+    <string name="podaj_email">Podaj email:</string>
+    <string name="podaj_haslo">Podaj hasło:</string>
+    <string name="powtorz_haslo">Powtórz hasło:</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="witaj">Witaj %s</string>
+
+    <string name="nieprawidlowy_adres_email">Nieprawidłowy adres email</string>
+    <string name="hasla_nie_sa_rowne">Hasła się róźnią</string>
+    <string name="email">email</string>
+</resources>

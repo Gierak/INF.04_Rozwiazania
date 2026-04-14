@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Galeria</string>
+    <string name="nastepny">NEXT</string>
+    <string name="wczesniej">PREV</string>
+    <string name="ktory_obraz">Który obraz wyświetlić?</string>
+    <string name="tlo_niebieskie">Tło niebieskie?</string>
+</resources>

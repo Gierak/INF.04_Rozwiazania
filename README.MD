@@ -45,7 +45,7 @@ Repozytorium z rozwiązaniami egzaminów INF.04 (Projektowanie, programowanie i 
 
 | INFORMATOR | Konsola | Desktop | Mobilna | Frontend | Backend | Dokumentacja | Testy | O arkuszu |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| INFORMATOR |1|1|1|1|1|1|1|GA-DE-RY-PO-LU-KI + Koty Galeria|
+| INFORMATOR |✅|nd.|✅|nd.|nd.|||GA-DE-RY-PO-LU-KI + Koty Galeria|
 | 2021-06-01 |1|1|1|1|1|1|1|Rejestracja konta + sortowanie przez wstawianie (z opisu)|
 | 2022-01-01 |1|1|1|1|1|1|1|duplikat powyższego|
 | 2022-06-01 |1|1|1|1|1|1|1|domek w górach + przeszukiwania tablicy z wartownikiem|
