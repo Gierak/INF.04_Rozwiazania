@@ -1,0 +1,2 @@
+Środowisko programistyczne: Android Studio
+Emulator: Nexus 5X API 29
