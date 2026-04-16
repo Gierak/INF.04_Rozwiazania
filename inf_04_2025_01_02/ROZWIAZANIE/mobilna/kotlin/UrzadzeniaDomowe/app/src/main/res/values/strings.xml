@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UrzadzeniaDomowe</string>
+
+    <string name="urzadzenia_domowe">Urządzenia Domowe</string>
+    <string name="pralka">Pralka</string>
+    <string name="podaj_nr_prania">Podaj nr prania 1..12</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="numer_prania_nie_podano">Numer prania: nie podano</string>
+    <string name="numer_prania_string">Numer prania: %d</string>
+    <string name="odkurzacz">Odkurzacz</string>
+    <string name="wlacz">Włącz</string>
+    <string name="wylacz">Wyłącz</string>
+    <string name="odkurzacz_wylaczony">Odkurzacz wyłączony</string>
+    <string name="odkurzacz_wlaczony">Odkurzacz włączony</string>
+    <string name="status_naladowany">Status: naładowany</string>
+</resources>

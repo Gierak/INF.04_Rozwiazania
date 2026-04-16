@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kosci</string>
+
+    <string name="rzuc_koscmi">RZUĆ KOŚCMI</string>
+    <string name="resetuj_wynik">RESETUJ WYNIK</string>
+    <string name="wynik_losowania">Wynik tego losowania:</string>
+    <string name="wynik_gry">Wynik gry:</string>
+    <string name="wynik_losowania_liczba">Wynik tego losowania: %d</string>
+    <string name="wynik_gry_liczba">Wynik gry: %d</string>
+
+</resources>
