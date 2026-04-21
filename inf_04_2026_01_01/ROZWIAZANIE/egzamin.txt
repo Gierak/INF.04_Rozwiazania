@@ -1,0 +1,11 @@
+System Operacyjny:
+Kubuntu 25.10
+
+Środowiska Programistyczne:
+Visual Studio Code, Android Studio
+
+Emulator aplikacji mobilnej:
+Pixel 5, Android 11.0 (R)
+
+Języki programowania:
+C#, Kotlin
