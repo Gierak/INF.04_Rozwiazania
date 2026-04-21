@@ -43,25 +43,25 @@ Repozytorium z rozwiązaniami egzaminów INF.04 (Projektowanie, programowanie i 
 - ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ## Zadania
 
-| INFORMATOR | Konsola | Desktop | Mobilna | Frontend | Backend | Dokumentacja | Testy | O arkuszu |
+| ARKUSZ | Konsola | Desktop | Mobilna | Frontend | Backend | Dok. | Testy | O arkuszu |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| INFORMATOR |✅|nd.|✅|nd.|nd.|||GA-DE-RY-PO-LU-KI + Koty Galeria|
-| 2021-06-01 |1|1|1|1|1|1|1|Rejestracja konta + sortowanie przez wstawianie (z opisu)|
-| 2022-01-01 |1|1|1|1|1|1|1|duplikat powyższego|
-| 2022-06-01 |1|1|1|1|1|1|1|domek w górach + przeszukiwania tablicy z wartownikiem|
-| 2022-06-02 |1|1|1|1|1|1|1|formularz + klasa , Logika systemu forum użytkowników + sztuczne testy (zwykly kod)|
-| 2023-01-01 |1|1|1|1|1|1|1|Dane pracownika + Alg. Euklidesa|
-| 2023-01-02 |1|1|1|1|1|1|1|lista todo +  Klasa do obsługi notatek|
-| 2023-06-01 |1|1|1|1|1|1|1|poczta +  sito Eratostenesa|
-| 2023-06-02 |1|1|1|1|1|1|1|czcionka + Sortowanie bąbelkowe|
-| 2023-06-03 |1|1|1|1|1|1|1|forumularz +  Wirtualna wypożyczalnia filmów (klasa)|
-| 2024-01-01 |1|1|1|1|1|1|1|paszport + alg. pesel|
-| 2024-01-02 |1|1|1|1|1|1|1|weterynarz + Klasa z narzędziami dla typu łańcuchowego|
-| 2024-06-01 |1|1|1|1|1|1|1|logika kości + aplikacja kości|
-| 2024-06-02 |1|1|1|1|1|1|1|odtwarzacz muzyki klasa + aplikacja (odczyt z pliku)|
-| 2025-01-01 |1|1|1|1|1|1|1|Galeria zdj. + Operacje na tablicach|
-| 2025-01-02 |1|1|1|1|1|1|1|klasa pralki + aplikacja (dziedziczenie klasy)|
-| 2025-06-01 |1|1|1|1|1|1|1|loteria liczbowa + wybieranie koloru rgb|
-| 2025-06-02 |1|1|1|1|1|1|1|szyfr cezara konsola + desktop + testy + zapis do pliku|
-| 2026-01-01 |1|1|1|1|1|1|1|klasa kości + aplikacja (opacity)|
-| 2026-01-02 |1|1|1|1|1|1|1|klasa pytań (abstrakcyjna) + aplikacja quiz + GIT |
+| INFORMATOR |✅||✅|||✅||GA-DE-RY-PO-LU-KI + Koty Galeria|
+| 2021-06-01 |✅||✅|||✅||Rejestracja konta + sortowanie przez wstawianie (z opisu)|
+| 2022-01-01 |✅||✅|||✅||duplikat powyższego|
+| 2022-06-01 |✅||✅|||✅||domek w górach + przeszukiwania tablicy z wartownikiem|
+| 2022-06-02 |✅|||✅|||✅|formularz + klasa , Logika systemu forum użytkowników + sztuczne testy (zwykly kod)|
+| 2023-01-01 |✅|✅||||✅||Dane pracownika + Alg. Euklidesa|
+| 2023-01-02 |✅||✅|||✅||lista todo +  Klasa do obsługi notatek|
+| 2023-06-01 |✅|✅||||✅||poczta +  sito Eratostenesa|
+| 2023-06-02 |✅||✅|||✅||czcionka + Sortowanie bąbelkowe|
+| 2023-06-03 |✅|||✅||✅||forumularz +  Wirtualna wypożyczalnia filmów (klasa)|
+| 2024-01-01 |✅|✅||||✅||paszport + alg. pesel|
+| 2024-01-02 |✅||✅|||✅||weterynarz + Klasa z narzędziami dla typu łańcuchowego|
+| 2024-06-01 |✅||✅|||✅||logika kości + aplikacja kości|
+| 2024-06-02 |✅|✅||||✅||odtwarzacz muzyki klasa + aplikacja (odczyt z pliku)|
+| 2025-01-01 |✅|||✅||✅||Galeria zdj. + Operacje na tablicach|
+| 2025-01-02 |✅||✅|||✅||klasa pralki + aplikacja (dziedziczenie klasy)|
+| 2025-06-01 |✅|✅||||✅||loteria liczbowa + wybieranie koloru rgb|
+| 2025-06-02 |✅|✅|||||✅|szyfr cezara konsola + desktop + testy + zapis do pliku|
+| 2026-01-01 |✅||✅||||✅|klasa kości + aplikacja (opacity)|
+| 2026-01-02 |✅||✅|||✅||klasa pytań (abstrakcyjna) + aplikacja quiz + GIT |
