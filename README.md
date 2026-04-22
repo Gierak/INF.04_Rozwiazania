@@ -46,25 +46,25 @@ Repozytorium z rozwiązaniami egzaminów INF.04 (Projektowanie, programowanie i 
 
 | ARKUSZ | Konsola | Desktop | Mobilna | Front | Back | Dok | Testy | O arkuszu |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| [INFORMATOR](INFORMATOR) |✅||✅|||✅||GA-DE-RY-PO-LU-KI + Koty Galeria|
-| [2021-06-01](inf_04_2021_06_01) |✅||✅|||✅||Rejestracja konta + sortowanie przez wstawianie (z opisu)|
+| [INFORMATOR](INFORMATOR) |✅||✅|||✅||GA-DE-RY-PO-LU-KI<br>Koty Galeria|
+| [2021-06-01](inf_04_2021_06_01) |✅||✅|||✅||Rejestracja konta<br>sortowanie przez wstawianie (z opisu)|
 | [2022-01-01](inf_04_2022_01_01) |✅||✅|||✅||duplikat powyższego|
-| [2022-06-01](inf_04_2022_06_01) |✅||✅|||✅||domek w górach + przeszukiwania tablicy z wartownikiem|
-| [2022-06-02](inf_04_2022_06_02) |✅|||✅|||✅|formularz + klasa , Logika systemu forum użytkowników + sztuczne testy (zwykly kod)|
-| [2023-01-01](inf_04_2023_01_01) |✅|✅||||✅||Dane pracownika + Alg. Euklidesa|
-| [2023-01-02](inf_04_2023_01_02) |✅||✅|||✅||lista todo +  Klasa do obsługi notatek|
-| [2023-06-01](inf_04_2023_06_01) |✅|✅||||✅||poczta +  sito Eratostenesa|
-| [2023-06-02](inf_04_2023_06_02) |✅||✅|||✅||czcionka + Sortowanie bąbelkowe|
-| [2023-06-03](inf_04_2023_06_03) |✅|||✅||✅||forumularz +  Wirtualna wypożyczalnia filmów (klasa)|
-| [2024-01-01](inf_04_2024_01_01) |✅|✅||||✅||paszport + alg. pesel|
-| [2024-01-02](inf_04_2024_01_02) |✅||✅|||✅||weterynarz + Klasa z narzędziami dla typu łańcuchowego|
-| [2024-06-01](inf_04_2024_06_01) |✅||✅|||✅||logika kości + aplikacja kości|
-| [2024-06-02](inf_04_2024_06_02) |✅|✅||||✅||odtwarzacz muzyki klasa + aplikacja (odczyt z pliku)|
-| [2025-01-01](inf_04_2025_01_01) |✅|||✅||✅||Galeria zdj. + Operacje na tablicach|
-| [2025-01-02](inf_04_2025_01_02) |✅||✅|||✅||klasa pralki + aplikacja (dziedziczenie klasy)|
-| [2025-06-01](inf_04_2025_06_01) |✅|✅||||✅||loteria liczbowa + wybieranie koloru rgb|
-| [2025-06-02](inf_04_2025_06_02) |✅|✅|||||✅|szyfr cezara konsola + desktop + testy + zapis do pliku|
-| [2026-01-01](inf_04_2026_01_01) |✅||✅||||✅|klasa kości + aplikacja (opacity)|
-| [2026-01-02](inf_04_2026_01_02) |✅||✅|||✅||klasa pytań (abstrakcyjna) + aplikacja quiz + GIT |
+| [2022-06-01](inf_04_2022_06_01) |✅||✅|||✅||domek w górach<br>przeszukiwania tablicy z wartownikiem|
+| [2022-06-02](inf_04_2022_06_02) |✅|||✅|||✅|formularz<br>klasa, Logika systemu forum użytkowników<br>sztuczne testy (zwykły kod)|
+| [2023-01-01](inf_04_2023_01_01) |✅|✅||||✅||Dane pracownika<br>Alg. Euklidesa|
+| [2023-01-02](inf_04_2023_01_02) |✅||✅|||✅||lista todo<br>Klasa do obsługi notatek|
+| [2023-06-01](inf_04_2023_06_01) |✅|✅||||✅||poczta<br>sito Eratostenesa|
+| [2023-06-02](inf_04_2023_06_02) |✅||✅|||✅||czcionka<br>Sortowanie bąbelkowe|
+| [2023-06-03](inf_04_2023_06_03) |✅|||✅||✅||forumularz<br>Wirtualna wypożyczalnia filmów (klasa)|
+| [2024-01-01](inf_04_2024_01_01) |✅|✅||||✅||paszport<br>alg. pesel|
+| [2024-01-02](inf_04_2024_01_02) |✅||✅|||✅||weterynarz<br>Klasa z narzędziami dla typu łańcuchowego|
+| [2024-06-01](inf_04_2024_06_01) |✅||✅|||✅||logika kości<br>aplikacja kości|
+| [2024-06-02](inf_04_2024_06_02) |✅|✅||||✅||odtwarzacz muzyki klasa<br>aplikacja "odtwarzacza" (odczyt z pliku)|
+| [2025-01-01](inf_04_2025_01_01) |✅|||✅||✅||Galeria zdj.<br>Operacje na tablicach|
+| [2025-01-02](inf_04_2025_01_02) |✅||✅|||✅||klasa pralki<br>aplikacja urządzeń (dziedziczenie klasy)|
+| [2025-06-01](inf_04_2025_06_01) |✅|✅||||✅||loteria liczbowa<br>wybieranie koloru rgb|
+| [2025-06-02](inf_04_2025_06_02) |✅|✅|||||✅|szyfr cezara konsola<br>**desktop**<br>testy<br>zapis do pliku|
+| [2026-01-01](inf_04_2026_01_01) |✅||✅||||✅|klasa kości<br>aplikacja kości (opacity)|
+| [2026-01-02](inf_04_2026_01_02) |✅||✅|||✅||klasa pytań (abstrakcyjna)<br>aplikacja quiz<br>GIT |
 
 > Front - Frontend <br> Back - Backend <br>Dok - Dokumentacja
