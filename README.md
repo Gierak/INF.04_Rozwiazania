@@ -25,6 +25,7 @@ Repozytorium z rozwiązaniami egzaminów INF.04 (Projektowanie, programowanie i 
 
 ### Aplikacja mobilna
  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
  ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 > Xamarin tylko do roku 2026
