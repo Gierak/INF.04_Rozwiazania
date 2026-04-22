@@ -1,1 +1,0 @@
-Powtórka powyższego egzaminu (inf_04_2021_06_01)
