@@ -68,3 +68,17 @@ Repozytorium z rozwiązaniami egzaminów INF.04 (Projektowanie, programowanie i 
 | [2026-01-02](inf_04_2026_01_02) |✅||✅|||✅||klasa pytań (abstrakcyjna)<br>aplikacja quiz<br>GIT |
 
 > Front - Frontend <br> Back - Backend <br>Dok - Dokumentacja
+
+
+
+## Dodatkowe własne arkusze (do celów ćwiczeniowych)  
+To nie są oficjale arkusze od CKE, to są moje własne przeznaczone do celów ćwiczeniowych.
+
+| ARKUSZ | Konsola | Desktop | Mobilna | Front | Back | Dok | Testy |
+|--------|--------|--------|--------|--------|--------|--------|--------|
+| [INF04_01](DODATKOWE/INF04_01) |✅|✅|||||✅|
+| [INF04_02](DODATKOWE/INF04_02) |✅||✅|||✅||
+| [INF04_03](DODATKOWE/INF04_03) |✅|||✅|||✅|
+| [INF04_04](DODATKOWE/INF04_04) |✅|||✅|✅|✅||
+| [INF04_05](DODATKOWE/INF04_05) |✅|||✅|✅||✅|
+| [INF04_06](DODATKOWE/INF04_06) |✅||||✅||✅|
