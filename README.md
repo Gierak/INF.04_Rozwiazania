@@ -72,6 +72,7 @@ Rozwiązania w tym repozytoirum są napisane w językach:
 | [2025-06-02](inf_04_2025_06_02) |✅|✅|||||✅|szyfr cezara konsola<br>**desktop**<br>testy<br>zapis do pliku|
 | [2026-01-01](inf_04_2026_01_01) |✅||✅||||✅|klasa kości<br>aplikacja kości (opacity)|
 | [2026-01-02](inf_04_2026_01_02) |✅||✅|||✅||klasa pytań (abstrakcyjna)<br>aplikacja quiz<br>GIT |
+| [2026-06-01](inf_04_2026_06_01) |✅|||✅||✅||generator haseł<br>menedżer haseł |
 
 > Front - Frontend <br> Back - Backend <br>Dok - Dokumentacja
 
