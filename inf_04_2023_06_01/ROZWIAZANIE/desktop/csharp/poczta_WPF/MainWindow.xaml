@@ -1,0 +1,62 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:poczta_WPF"
+        xmlns:Properties="clr-namespace:poczta_WPF.Properties" x:Class="poczta_WPF.MainWindow"
+        mc:Ignorable="d"
+        MinHeight="300" MinWidth="600"
+        Title="Nadaj Przesyłkę, PESEL: 12345678901" Height="300" Width="600">
+    <Grid Margin="10,10,10,5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Width="250">
+                <GroupBox Header="Rodzaj przesyłki" Width="200" HorizontalAlignment="Left">
+                    <StackPanel>
+                        <RadioButton Content="Pocztówka" Margin="10,10,10,0" IsChecked="True" Tag="pocztowka" Click="RadioButton_pocztowka_Click" />
+                        <RadioButton Content="List" Margin="10,10,10,0" Tag="list" Click="RadioButton_pocztowka_Click" />
+                        <RadioButton Content="Paczka" Margin="10,10,10,10" Tag="paczka" Click="RadioButton_pocztowka_Click" />
+                    </StackPanel>
+                </GroupBox>
+
+                <Button Content="Sprawdź Cenę" Margin="0,10,00,10" Width="200" HorizontalAlignment="Left" Click="Button_sprawdzCene_Click" />
+
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Image_zdjecie" Source="/Images/pocztowka.png" Width="100" Height="80"  />
+                    <Label x:Name="label_cena" Content="Cena: 1 zł" FontWeight="Bold" FontSize="20" Margin="20,0,0,0" />
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Column="2">
+                <GroupBox Header="Dane adresowe" Padding="10">
+                    <StackPanel>
+                        <Label Content="Ulica z numerem"/>
+                        <TextBox Margin="0,0,0,10" Height="20" VerticalContentAlignment="Center"/>
+
+                        <Label Content="Kod pocztowy"/>
+                        <TextBox x:Name="textBox_kodPocztowy" Margin="0,0,0,10" Width="100" HorizontalAlignment="Left" Height="20" VerticalContentAlignment="Center"/>
+
+                        <Label Content="Miasto"/>
+                        <TextBox Height="20" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+
+
+        </Grid>
+
+        <Button Grid.Row="1" Content="Zatwierdź" Width="550" Click="Button_zatwierdz_Click"/>
+
+    </Grid>
+</Window>

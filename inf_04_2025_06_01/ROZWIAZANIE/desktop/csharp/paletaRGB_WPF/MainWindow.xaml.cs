@@ -1,0 +1,60 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace paletaRGB_WPF
+{
+    /// <summary>
+    /// Logika interakcji dla klasy MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        byte r = 255;
+        byte g = 255;
+        byte b = 255;
+
+        private void Button_pobierz_Click(object sender, EventArgs e)
+        {
+            label_zapisane.Content = $"{r}, {g}, {b}";
+            prostokat_zapisane.Fill = new SolidColorBrush(Color.FromArgb(255, r, g, b));
+        }
+
+        private void Slider_czerwony_ValueChanged(object sender, EventArgs e)
+        {
+
+            r = (byte)slider_czerwony.Value;
+            label_czerwony.Content = r.ToString();
+            prostokat_podglad.Fill = new SolidColorBrush(Color.FromArgb(255, r, g, b));
+        }
+
+        private void Slider_zielony_ValueChanged(object sender, EventArgs e)
+        {
+            g = (byte)slider_zielony.Value;
+            label_zielony.Content = g.ToString();
+            prostokat_podglad.Fill = new SolidColorBrush(Color.FromArgb(255, r, g, b));
+        }
+
+        private void Slider_niebieski_ValueChanged(object sender, EventArgs e)
+        {
+            b = (byte)slider_niebieski.Value;
+            label_niebieski.Content = b.ToString();
+            prostokat_podglad.Fill = new SolidColorBrush(Color.FromArgb(255, r, g, b));
+        }
+    }
+}

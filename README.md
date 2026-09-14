@@ -3,6 +3,12 @@
 
 Repozytorium z rozwiązaniami egzaminów INF.04 (Projektowanie, programowanie i testowanie aplikacji), kwalifikacji Technika Programisty.
 
+Rozwiązania w tym repozytoirum są napisane w językach:
+* **Konsola:** C# (100%),
+* **Desktop:** C# Winforms i/lub WPF (100%),
+* **Mobilna:** Kotlin (100%),
+* **Webowa:** JavaScript React (100%),
+
 ## Języki i technologie
 
 ### Aplikacja konsolowa

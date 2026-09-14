@@ -1,0 +1,70 @@
+﻿<Window x:Class="paletaRGB_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:paletaRGB_WPF"
+        mc:Ignorable="d"
+        Background="Cornsilk"
+        Title="Wzornik kolorów RGB. Wykonał 12345678901" Height="400" Width="700">
+    <Grid HorizontalAlignment="Center" MinWidth="600" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Rectangle x:Name="prostokat_podglad" Grid.Row="0" Fill="White" Height="80" Width="600" Margin="0,0,0,30"/>
+
+        <Label Grid.Row="1" Content="Dobierz kolor suwakami i zapisz przyciskiem:"  Margin="0,0,0,10"/>
+
+        <Grid Grid.Row="2" Margin="0,5,0,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="R" Grid.Column="0" Margin="0,0,5,0" Width="30"/>
+            <Label x:Name="label_czerwony" Content="255" Grid.Column="2" Margin="5,0,0,0" Width="30"/>
+            <Slider x:Name="slider_czerwony" Grid.Column="1" Minimum="0" Maximum="255" Value="255" ValueChanged="Slider_czerwony_ValueChanged" SmallChange="1" IsSnapToTickEnabled="True" TickFrequency="1"/>
+
+        </Grid>
+
+        <Grid Grid.Row="3" Margin="0,5,0,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="G" Grid.Column="0" Margin="0,0,5,0" Width="30"/>
+            <Label x:Name="label_zielony" Content="255" Grid.Column="2" Margin="5,0,0,0" Width="30"/>
+            <Slider x:Name="slider_zielony" Grid.Column="1" Minimum="0" Maximum="255" Value="255" ValueChanged="Slider_zielony_ValueChanged" SmallChange="1" IsSnapToTickEnabled="True" TickFrequency="1" />
+        </Grid>
+
+        <Grid Grid.Row="4" Margin="0,5,0,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="B" Grid.Column="0" Margin="0,0,5,0" Width="30" />
+            <Label x:Name="label_niebieski" Content="255" Grid.Column="2" Margin="5,0,0,0" Width="30" />
+            <Slider x:Name="slider_niebieski" Grid.Column="1" Minimum="0" Maximum="255" Value="255" SmallChange="1" ValueChanged="Slider_niebieski_ValueChanged" IsSnapToTickEnabled="True" TickFrequency="1" />
+        </Grid>
+
+        <Button Grid.Row="5" Content="Pobierz" HorizontalAlignment="Center" Width="180" Background="Peru" Height="30" Margin="0,0,0,20" Click="Button_pobierz_Click" />
+
+        <Grid Grid.Row="6" HorizontalAlignment="Center" Width="180" Height="30">
+            <Rectangle x:Name="prostokat_zapisane" Fill="White"/>
+            <Label x:Name="label_zapisane" Content="255,255,255" Padding="3" />
+        </Grid>
+
+    </Grid>
+</Window>
