@@ -1,0 +1,8 @@
+System Operacyjny:
+Kubuntu 26.04.1 LTS
+
+Środowiska Programistyczne:
+Visual Studio Code
+
+Języki programowania:
+C#, JavaScript
